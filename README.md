@@ -3,5 +3,4 @@
 
 • After Scanning gets completed it will show a button which says Scan Again So that User can scan again any other QR code 
 
-• Demo Video: https://drive.google.com/file/d/1LV7ISjvjj5PkTyEb_dOrGSFTmt3VmPNu/view?
-usp=sharing
+• Demo Video: https://drive.google.com/file/d/1LV7ISjvjj5PkTyEb_dOrGSFTmt3VmPNu/view?usp=sharing
